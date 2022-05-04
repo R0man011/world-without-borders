@@ -1,0 +1,58 @@
+// Circe Regular
+@font-face {
+  font-family: "Circe";
+  font-display: swap;
+  src: url("../fonts/Circe-Regular.eot");
+  src: local("O"), url("../fonts/Circe-Regular.woff") format("woff"),
+    url("../fonts/Circe-Regular.ttf") format("truetype"), url("../fonts/Circe-Regular.svg") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+
+// Rubik Mono One Regular
+// font-family: 'Rubik Mono One'
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap");
+
+// Circe Bold
+@font-face {
+  font-family: "Circe";
+  font-display: swap;
+  src: url("../fonts/Circe-Bold.eot");
+  src: local("O"), url("../fonts/Circe-Bold.woff") format("woff"), url("../fonts/Circe-Bold.ttf") format("truetype"),
+    url("../fonts/Circe-Bold.svg") format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
+
+// Rubik One Regular
+@font-face {
+  font-family: "RubikOne-Regular";
+  font-display: swap;
+  src: url("../fonts/RubikOne-Regular.eot");
+  src: local("O"), url("../fonts/RubikOne-Regular.woff") format("woff"),
+    url("../fonts/RubikOne-Regular.ttf") format("truetype"), url("../fonts/RubikOne-Regular.svg") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+
+// Circe Extra Bold
+@font-face {
+  font-family: "Circe";
+  font-display: swap;
+  src: url("../fonts/Circe-ExtraBold.eot");
+  src: local("O"), url("../fonts/Circe-ExtraBold.woff") format("woff"),
+    url("../fonts/Circe-ExtraBold.ttf") format("truetype"), url("../fonts/Circe-ExtraBold.svg") format("svg");
+  font-weight: 800;
+  font-style: normal;
+}
+
+// Comic Sans MS Bold
+@font-face {
+  font-family: "comic-sans-bold";
+  font-display: swap;
+  src: url("../fonts/comic-sans-bold.eot");
+  src: local("O"), url("../fonts/comic-sans-bold.woff") format("woff"),
+    url("../fonts/comic-sans-bold.ttf") format("truetype"), url("../fonts/comic-sans-bold.svg") format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
